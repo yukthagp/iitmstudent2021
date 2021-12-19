@@ -1,9 +1,9 @@
-Hey there! I’m Yuktha\n
-Pursuing BSc in CMS from St. Joseph's college,\n
-Completed Foundational level of the IITM Bsc course
+Hey there! I’m Yuktha<br/>
+Pursuing BSc in CMS from St. Joseph's college,<br/>
+Completed Foundational level of the IITM Bsc course<br/>
 
-You can reach me through:
--Linkedin- https://www.linkedin.com/in/yuktha-gp-2246b3203
+You can reach me through:<br/>
+-Linkedin- https://www.linkedin.com/in/yuktha-gp-2246b3203<br/>
 -Instagram- https://instagram.com/soul.craves.chocolate?utm_medium=copy_link
 
 <!---
