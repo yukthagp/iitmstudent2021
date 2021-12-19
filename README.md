@@ -1,5 +1,5 @@
-Hey there! I’m Yuktha
-Pursuing BSc in CMS from St. Joseph's college,
+Hey there! I’m Yuktha\n
+Pursuing BSc in CMS from St. Joseph's college,\n
 Completed Foundational level of the IITM Bsc course
 
 You can reach me through:
